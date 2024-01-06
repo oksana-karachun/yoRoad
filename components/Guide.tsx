@@ -6,7 +6,7 @@ const Guide = () => {
         <section className="flexCenter flex-col">
             <div className="padding-container max-container w-full pb-24">
                 <Image src="/bike.png" alt="bike" width={50} height={50} />
-                <p className="uppercase regular-18 -mt-1 mb-3 text-green-50">
+                <p className="uppercase regular-18 -mt-1 mb-3 text-cyan-700">
                     We are here for you
                 </p>
                 <div className="flex flex-wrap justify-between gap-5 lg:gap-10">
